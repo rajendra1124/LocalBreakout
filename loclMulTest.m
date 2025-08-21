@@ -1,6 +1,6 @@
 %% 5G NR Multicast Simulation with Local UPF in gNB (R2024b Compatible)
 %
-% This script models a mission‑critical multicast scenario with 10 UEs
+% This script models a mission‑critical multicast scenario with 150 UEs
 % connected to a single gNB.  Uplink transmissions use unicast PUSCH and
 % downlink transmissions use multicast PDSCH.  The User Plane Function
 % (UPF) is assumed to be located either in the gNB (local UPF) or in
